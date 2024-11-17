@@ -106,11 +106,5 @@ This repository contains all the experiments for the **Database Management Syste
 
 ---
 
-## How to Use This Repository
-1. Navigate to the specific experiment folder to find its files and code.
-2. Follow the provided instructions in each folder to execute or understand the experiment.
-
----
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+## Minor Project [GitHub repo](https://github.com/shubhojit-mitra-dev/crud-project) [Demo](https://listify-crud.vercel.app)
+A CRUD app built with NextJS, TailwindCSS and MongoDB. A simple To-Do app with modern UI and MongoDB Atlas.
